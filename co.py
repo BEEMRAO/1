@@ -1,4 +1,4 @@
-x=input()
+n=input()
 a=list(map(int,input().split()))
 b=False
 for i in b:
