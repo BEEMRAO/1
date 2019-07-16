@@ -1,5 +1,5 @@
 x,y=input().strip().split(" ")
-y=int(x)
+y=int(y)
 z=0
 while z<len(x)-1 and y:
   if(x[z]>x[z+1]):
