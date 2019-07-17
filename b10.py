@@ -1,4 +1,4 @@
-x=int(input())
+x=str(input())
 count=0
 for y in x:
    count+=1
