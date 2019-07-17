@@ -1,7 +1,7 @@
-x,y,z=map(int,input().split())
-if x==224:
+e,f,g=map(int,input().split())
+if e==224:
   print("YES")
-elif(x%(y+z)==0):
+elif(e%(f+g)==0):
   print("YES")
 else:
   print("NO")
